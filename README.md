@@ -2,6 +2,9 @@
 
 [![RediPanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=RediPanda&theme=tokyonight)](https://github.com/RediPanda/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RediPanda)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **RediPanda/RediPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
